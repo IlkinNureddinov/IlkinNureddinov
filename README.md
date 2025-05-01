@@ -1,18 +1,17 @@
-👋 Hi there! I'm Ilkin Nureddinov
+👋 Hello! I'm Ilkin Nureddinov
+🔧 Network & Linux Enthusiast | 🎯 Aspiring Cybersecurity Professional | 🌍 Based in Azerbaijan
 
-🔧 Network & Linux Enthusiast | 🎯 Future Cybersecurity Professional | 🇦🇿 Based in Azerbaijan
+👀 Passionate about network engineering, Linux system administration, and cybersecurity
 
-👀 I’m deeply interested in network engineering, Linux system administration, and cybersecurity
+🌱 Currently advancing my skills in Red Hat Enterprise Linux (RHCSA) and preparing for the CCNP Enterprise (ENCOR) exam
 
-🌱 Currently mastering Red Hat Enterprise Linux (RHCSA) and studying for CCNP Enterprise (ENCOR)
+🧪 Focused on real-world lab environments using Cisco routers, switches, and enterprise-grade Linux servers
 
-🔍 Passionate about real-world lab setups, from Cisco routers to enterprise-grade Linux servers
+💻 Actively building and documenting home lab projects on GitHub to enhance hands-on experience and support the community
 
-💻 Building and documenting home labs on GitHub for hands-on experience and community learning
+💡 Open to remote support opportunities and committed to creating simplified, beginner-friendly CCNA content
 
-💡 Open to remote support opportunities | Building simplified CCNA content for new learners
+📫 You can reach me at: nureddinov36@gmail.com
 
-📫 Reach me via:  Email: nureddinov36@gmail.com 
-
-⚡ Fun fact: I run a data center in my room—complete with Cisco routers, switches, and an HPE server 😄
+⚡ Fun fact: I’ve built a fully functional home data center—powered by Cisco gear and an HPE server 😄
 
