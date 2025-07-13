@@ -3,7 +3,7 @@
 
 👀 Passionate about network engineering, Linux system administration, and cybersecurity
 
-🌱 Currently advancing my skills in Red Hat Enterprise Linux (RHCSA) and preparing for the CCNP Enterprise (ENCOR) exam
+🌱 Currently advancing my skills in Red Hat Enterprise Linux (RHCSA) 
 
 🧪 Focused on real-world lab environments using Cisco routers, switches, and enterprise-grade Linux servers
 
